@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp(java)</string>
+
+    <!--    This is news request url-->
+
+    <string name="NEWS_REQUEST_URL">https://content.guardianapis.com/world/india?api-key=test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
